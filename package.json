@@ -1,0 +1,22 @@
+{
+	"name": "event-listener-options",
+	"version": "0.0.0",
+	"description": "An extension to the DOM event pattern to allow listeners to disable support for preventDefault, primarily to enable scroll performance optimizations.",
+	"license": "MIT",
+	"repository": "fBosch/event-listener-options",
+	"author": {
+		"name": "fBosch",
+		"email": "frede.bosch@gmail.com",
+		"url": "fbosch.github.io"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {}
+}
